@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessExplorer", "ProcessExplorer\ProcessExplorer.csproj", "{AD645294-2169-4320-8B42-B0F1B46C2C91}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcessUtils", "ProcessUtils\ProcessUtils.vcxproj", "{577C598A-B97B-4B51-A608-45FA37EA49C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD645294-2169-4320-8B42-B0F1B46C2C91}.Debug|x64.ActiveCfg = Debug|x64
+		{AD645294-2169-4320-8B42-B0F1B46C2C91}.Debug|x64.Build.0 = Debug|x64
+		{AD645294-2169-4320-8B42-B0F1B46C2C91}.Debug|x86.ActiveCfg = Debug|x64
+		{AD645294-2169-4320-8B42-B0F1B46C2C91}.Release|x64.ActiveCfg = Release|x64
+		{AD645294-2169-4320-8B42-B0F1B46C2C91}.Release|x64.Build.0 = Release|x64
+		{AD645294-2169-4320-8B42-B0F1B46C2C91}.Release|x86.ActiveCfg = Release|x64
+		{577C598A-B97B-4B51-A608-45FA37EA49C0}.Debug|x64.ActiveCfg = Debug|x64
+		{577C598A-B97B-4B51-A608-45FA37EA49C0}.Debug|x64.Build.0 = Debug|x64
+		{577C598A-B97B-4B51-A608-45FA37EA49C0}.Debug|x86.ActiveCfg = Debug|x64
+		{577C598A-B97B-4B51-A608-45FA37EA49C0}.Release|x64.ActiveCfg = Release|x64
+		{577C598A-B97B-4B51-A608-45FA37EA49C0}.Release|x64.Build.0 = Release|x64
+		{577C598A-B97B-4B51-A608-45FA37EA49C0}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {973BB670-EB45-4394-973C-F661C0DB9E18}
+	EndGlobalSection
+EndGlobal
